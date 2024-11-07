@@ -1,0 +1,23 @@
+.contactItem {
+  display: flex;
+  gap: 20px;
+  background-color: aliceblue;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.contactItem p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-weight: 600;
+}
+
+.contactButton {
+  background-color: rgb(73, 0, 128);
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
